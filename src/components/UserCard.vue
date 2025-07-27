@@ -8,7 +8,7 @@
 
     <h1 v-if="awesome">Vue is awesome!
     </h1>
-    <h1 v-else>Oh  No changes nade 😢</h1>
+    <h1 v-else>Oh  kalaitest2</h1>
     <ul v-if="isActive">
       <li v-for="item in items" :key="item">{{ item }}</li>
     </ul>
