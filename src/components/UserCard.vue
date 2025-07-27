@@ -10,6 +10,7 @@
     </h1>
     <h1 v-else>Oh  kalaitest2</h1>
     <h1> Edited in kalaitest1 </h1>
+    <h2> Edited in kalaitest2 and pushed to kalaitest1</h2>
     <ul v-if="isActive">
       <li v-for="item in items" :key="item">{{ item }}</li>
     </ul>
